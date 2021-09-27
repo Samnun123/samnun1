@@ -1,0 +1,23 @@
+h1{
+    color: rgb(235, 235, 235);
+    background-color: rgb(11, 14, 9);
+    text-align: center;
+    font-size: 35px;
+}
+div{
+    color: rgb(103, 103, 128);
+font-size: 18px;
+}
+p{
+    color: rgb(224, 157, 57); 
+}
+.samnun{
+    color: rgb(233, 4, 4);
+    background-color: rgb(248, 185, 12);
+    font-size: 58px;
+}
+ul li{
+    color: rgb(238, 6, 57);
+    font-size: 29px;
+}
+
